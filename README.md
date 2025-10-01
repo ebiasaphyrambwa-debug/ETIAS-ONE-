@@ -30,7 +30,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 ## FIRST FORK THE REPOSITORY
 ` CLICK THE FORK BUTTON BELOW `
 
-<a href="https://github.com/EtiasProTech/ETIAS-AI/fork"><img title="ETIAS-AI" src="https://img.shields.io/badge/FORK-BOT%20REPO-h?color=indigo&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Etiasgroup/ETIAS-AI/fork"><img title="ETIAS-AI" src="https://img.shields.io/badge/FORK-BOT%20REPO-h?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ## GET SESSION ID BELOW
 > **FROM PAIRING WEB**
@@ -52,7 +52,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 - **Deploy on [Render](https://render.com)**
 - **Deploy on [Katabump](https://dashboard.katabump.com/auth/login)**
 - **Deploy on [Optiklink](https://optiklink.com/)**
-- **Deploy on [Heroku](https://dashboard.heroku.com/new?template=https://github.com/EtiasProTech/ETIAS-AI)**
+- **Deploy on [Heroku](https://dashboard.heroku.com/new?template=https://github.com/Etiasgroup/ETIAS-AI)**
 - **Deploy on [Bot-hosting.net](https://bot-hosting.net/)**
 ---
 
