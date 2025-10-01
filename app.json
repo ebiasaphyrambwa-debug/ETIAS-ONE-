@@ -1,0 +1,76 @@
+{
+  "name": "ETIAS-AI",
+  "description": "A WhatsApp Bot Created by EtiasPro Tech",
+  "logo": "https://storage/emulated/0/Pictures/WhatsApp/IMG-20250901-WA0006.jpg",
+  "keywords": ["bot", "whatsapp", "baileys", "javascript", "etiasPro"],
+  "success_url": "/",
+  "stack": "heroku-24",
+  "env": {
+    "SESSION_ID": {
+      "description": "Put your SESSION_ID here.",
+      "value": ""
+    },
+    "PREFIX": {
+      "description": "Bot command prefix (example: ., !, #)",
+      "value": "."
+    },
+    "OWNER_NUMBER": {
+      "description": "Owner's phone number in international format (without +).",
+      "value": "263711466227"
+    },
+    "OWNER_NAME": {
+      "description": "Owner's display name.",
+      "value": "EBIASAPHY RAMBWAWASVIKA T"
+    },
+    "BOT_NAME": {
+      "description": "Bot display name.",
+      "value": "ETIAS-AI"
+    },
+    "AUTO_RECORDING": {
+      "description": "Enable auto-recording simulation (true or false).",
+      "value": "false"
+    },
+    "AUTO_TYPING": {
+      "description": "Enable auto-typing simulation (true or false).",
+      "value": "false"
+    },
+    "AUTO_RECORD_TYPE": {
+      "description": "Enable audio recording type simulation.",
+      "value": "false"
+    },
+    "AUTO_READ": {
+      "description": "Auto read all incoming messages.",
+      "value": "false"
+    },
+    "AUTO_BIO": {
+      "description": "Enable auto bio updates with time.",
+      "value": "true"
+    },
+    "ANTI_92,91": {
+      "description": "Block +92,+91 numbers automatically (true or false).",
+      "value": "false"
+    },
+    "AUTO_SW_VIEW": {
+      "description": "Auto-view WhatsApp statuses.",
+      "value": "false"
+    },
+    "WELCOME": {
+      "description": "Enable group welcome message.",
+      "value": "true"
+    },
+    "AUTO_REACT": {
+      "description": "Enable automatic reactions to messages.",
+      "value": "false"
+    },
+    "AUTO_LIKE_STATUS": {
+      "description": "Automatically react to viewed statuses.",
+      "value": "true"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+    }
+  ]
+}
+
