@@ -28,7 +28,7 @@ global.autoreact = process.env.AUTO_REACT === 'true';
 global.autolikestatus = process.env.AUTO_LIKE_STATUS === 'true';
 
 // Thumbnail profile picture
-global.etiasaipp = process.env.ETIAS_AI_PP || 'https://i.ibb.co/jk0ynvbn/7a8c4b5b617fa11a1e9a61190f427546.jpg';
+global.etiasaipp = process.env.ETIAS_AI_PP || 'https://i.ibb.co/img-20250505-wa0013-1.webp';
 // Default emoji
 global.themeemoji = process.env.THEME_EMOJI || '👨‍💻';
 
@@ -53,7 +53,7 @@ global.mess = {
     error: '[500] Unexpected error occurred.',
 };
 
-global.thumb = fs.readFileSync('./EtiasProMedia/thumb.jpg');
+global.thumb = fs.readFileSync('./EtiasProMedia/img-20250505-wa0013-1.webp');
 
 let file = require.resolve(__filename);
 fs.watchFile(file, () => {
