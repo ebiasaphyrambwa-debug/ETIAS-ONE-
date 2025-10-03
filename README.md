@@ -13,7 +13,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VbBRrywFi8xkbMhdeC0l">
-    <img alt=Support weight="10" src="http://etiasai-url-clouds.onrender.com/20250920_202534.jpg"> 
+    <img alt=Support weight="10" src="http://etiasai-url-clouds.onrender.com/IMG-20250925-WA0029.jpg"> 
     </p>
 <p align="center"> 
     </p>
@@ -52,7 +52,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 - **Deploy on [Render](https://render.com)**
 - **Deploy on [Katabump](https://dashboard.katabump.com/auth/login)**
 - **Deploy on [Optiklink](https://optiklink.com/)**
-- **Deploy on [Heroku](https://dashboard.heroku.com/new?template=https://github.com/Etiasgroup/ETIAS-AI)**
+- **Deploy on [Heroku](https://dashboard.heroku.com/new?template=https://github.com/ebiasaphyrambwa-debug/ETIAS-AI)**
 - **Deploy on [Bot-hosting.net](https://bot-hosting.net/)**
 ---
 
