@@ -1,0 +1,15 @@
+# Exported from Render on 2025-10-01T14:36:16Z
+version: "1"
+services:
+- type: web
+  name: ETIAS-AI
+  runtime: node
+  repo: https://github.com/ebiasaphyrambwa-debug/ETIAS-ONE-
+  plan: free
+  envVars:
+  - key: Render
+    sync: false
+  region: oregon
+  buildCommand: npm install
+  startCommand: node index.js
+  autoDeployTrigger: "off"
